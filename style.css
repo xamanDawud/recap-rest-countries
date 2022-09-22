@@ -4,6 +4,10 @@
   margin: 10px;
   border: 2px solid salmon;
   border-radius: 5px;
+  width: 300px;
+}
+img {
+  width: 250px;
 }
 section {
   display: grid;
